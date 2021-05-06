@@ -2,7 +2,7 @@
 
 Projeto feito com Html 5, CCS3 com elementos Flexbox
 
-Conteúdo aprendido no bootcamp HTML Web Develor (Digital Innovation One)
+Conteúdo aprendido no bootcamp HTML Web Developer (Digital Innovation One)
 
 Estou aprendendo, sendo assim, imagino que irei personalizar esse projeto futuramente. :smile:
 
